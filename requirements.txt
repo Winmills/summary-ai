@@ -1,0 +1,8 @@
+fastapi
+openai
+python-dotenv
+pydantic
+googleapiclient
+youtube_transcript_api
+spacy
+tiktoken
