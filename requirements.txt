@@ -1,7 +1,5 @@
 fastapi
 setuptools_rust
-libxml2
-libxslt
 rust
 google_api_python_client
 openai
