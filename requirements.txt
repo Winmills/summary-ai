@@ -8,3 +8,4 @@ python-dotenv
 spacy
 tiktoken
 youtube_transcript_api
+uvicorn
