@@ -5,3 +5,4 @@ pydantic
 youtube_transcript_api
 spacy
 uvicorn[standard]
+google-api-python-client
