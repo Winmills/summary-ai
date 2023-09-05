@@ -4,5 +4,5 @@ openai
 pydantic
 python-dotenv
 spacy
-tiktoken==0.4.0
+tiktoken
 youtube_transcript_api
