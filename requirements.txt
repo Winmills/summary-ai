@@ -4,4 +4,3 @@ python-dotenv
 pydantic
 youtube_transcript_api
 spacy
-tiktoken
