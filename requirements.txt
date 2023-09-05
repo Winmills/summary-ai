@@ -1,8 +1,9 @@
 fastapi[all]
-openai
+openai[all]
 python-dotenv
 pydantic
 youtube_transcript_api
 spacy
 uvicorn[standard]
 google-api-python-client
+tiktoken
