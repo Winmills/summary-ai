@@ -1,9 +1,8 @@
-fastapi==0.103.1
-google_api_python_client==2.97.0
-langchain==0.0.281
-openai==0.27.8
-pydantic==1.10.9
-python-dotenv==1.0.0
-spacy==3.5.3
+fastapi
+google_api_python_client
+openai
+pydantic
+python-dotenv
+spacy
 tiktoken==0.4.0
-youtube_transcript_api==0.6.1
+youtube_transcript_api
